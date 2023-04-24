@@ -6,6 +6,5 @@ platform. This system is designed to assist and provide support in order to fulf
 the needs of elderly and disabled at home. Also, the smart home concept in the
 system improves the standard of living at home
 
-
-https://user-images.githubusercontent.com/80330146/233929713-c9edf801-5a39-413d-855f-c2c4e990d0ff.mp4
+https://user-images.githubusercontent.com/80330146/233930118-375e90d7-5369-44b1-9a56-23016f19ddc1.mp4
 
